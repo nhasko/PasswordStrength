@@ -25,7 +25,7 @@
       "versions" : ["19.1.0"],
       "plugin" : {
         "internalName": "COM.BLOGSPOT.NHASKO.PASSWORDSTRENGTH",
-        "type": "Dynamic Action",
+        "type": "dynamic action",
         "demo": "https://apex.oracle.com/pls/apex/f?p=85112:7",
         "previewImage": "https://raw.githubusercontent.com/nhasko/PasswordStrength/master/preview.PNG"
       }
