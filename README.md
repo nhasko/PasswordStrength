@@ -13,4 +13,4 @@
 
 # Preview
 
-![alt text](https://github.com/nhasko/PasswordStrength/blob/master/preview.PNG)
+![alt text](https://raw.githubusercontent.com/nhasko/PasswordStrength/master/preview.PNG)
