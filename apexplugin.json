@@ -1,0 +1,34 @@
+{
+  "name": "Password Strength",
+  "version": "1.0",
+  "description": "Password Strength is plugin to add password strength indicator on Password item.",
+  "keywords": ["javascript", "jquery-ui", "Dynamic Action","Password", "Plugin"],
+  "homepage": "https://github.com/nhasko/PasswordStrength",
+  "bugs": {
+    "url": "https://github.com/nhasko/PasswordStrength/issues",
+    "email": "nhasko@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Nihad Haskovic",
+    "email": "nhasko@gmail.com",
+    "url": "https://nhasko.blogspot.com",
+    "twitter": "Niho__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhasko/PasswordStrength"
+  },
+  "oracle": {
+    "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1","18.4.0.0"],
+    "apex" : {
+      "versions" : ["19.1.0"],
+      "plugin" : {
+        "internalName": "COM.BLOGSPOT.NHASKO.PASSWORDSTRENGTH",
+        "type": "item",
+        "demo": "https://apex.oracle.com/pls/apex/f?p=85112:7",
+        "previewImage": "https://github.com/nhasko/PasswordStrength/blob/master/passwordStrength.png"
+      }
+    }
+  }
+}
